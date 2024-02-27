@@ -24,7 +24,7 @@ Olá, sou Daniele Damasceno, contadora e estudando de Análise e Deseolvimento d
 
 
 ## Meu repositório
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=danibdamascenojs&repo&bg_color=000&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)](https://github.com/danibdamasceno/DDDIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=danibdamascenojs&danibdamasceno/DDDIO_color=000&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)](https://github.com/danibdamasceno/DDDIO)
 
 
 
