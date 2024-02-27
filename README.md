@@ -5,7 +5,7 @@ Olá, sou Daniele Damasceno, contadora e estudando de Análise e Deseolvimento d
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/daniele-damasceno-30b8b9122/)
-[![Instagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Fsearch%3Fq%3Dinstagram&psig=AOvVaw0dab7Mz7Dfw8AZdm6Dp-aa&ust=1709058610976000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCW-czRyYQDFQAAAAAdAAAAABAE)](https://www.instagram.com/danibdamasceno/)
+[![Instagram](![alt text](image.png))](https://www.instagram.com/danibdamasceno/)
 
 
 
